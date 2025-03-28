@@ -49,7 +49,12 @@
   <a href="https://www.linkedin.com/in/matheusnetto-/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Outlook.com&logo=microsoft-outlook&label=netto.matheus123@&color=0078D4&logoColor=white&labelColor=0078D4&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  <a href="mailto:netto.matheus321@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="mailto:netto.matheus123@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=0078D4&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
