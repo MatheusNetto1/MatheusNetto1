@@ -35,9 +35,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusNetto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="135" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=MatheusNetto1&locale=pt-br&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="135" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNetto1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusNetto1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=pt-br&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=MatheusNetto1&locale=pt-br&mode=weekly&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="120" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusNetto1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
