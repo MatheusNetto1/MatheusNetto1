@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🧠 Main Interests</h2>
+<h2 align="left">🧠 Main Interests</h2>
 
 ###
 
