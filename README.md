@@ -2,19 +2,19 @@
 
 ###
 
-<h4 align="left">🎓 Software Engineering Student with experience as an Academic Tutor.</h4>
+<h3 align="left">🎓 Software Engineering Student with experience as an Academic Tutor.</h4>
 
 ###
 
-<h4 align="left">I’m interested in software development, artificial intelligence, and how technology impacts user experience. I enjoy building projects that combine solid engineering principles with practical, real‑world applications, especially in tech and game‑related contexts.</h4>
+<h3 align="left">I’m interested in software development, artificial intelligence, and how technology impacts user experience. I enjoy building projects that combine solid engineering principles with practical, real‑world applications, especially in tech and game‑related contexts.</h4>
 
 ###
 
-<h2 align="left">🧠 Main Interests</h2>
+<h3 align="left">🧠 Main Interests</h2>
 
 ###
 
-<h4 align="left">● Backend & Frontend Development<br>● Artificial Intelligence & Software Design<br>● Algorithms, Data Structures & Computer Science Foundations<br>● Technology & Games</h4>
+<h3 align="left">● Backend & Frontend Development<br>● Artificial Intelligence & Software Design<br>● Algorithms, Data Structures & Computer Science Foundations<br>● Technology & Games</h4>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">● Languages: Python, C++, C, C#, Java   <br>● Web & Backend: React, TypeScript, FastAPI, Node.js, Express <br>● Data / ML: scikit-learn, NumPy, Pandas, Matplotlib, Jupyter  <br>● Deep Learning: PyTorch (learning), TensorFlow (basic) <br>● Databases: PostgreSQL, MySQL, MongoDB, Redis   <br>● Tools: Git, Linux, Docker, Postman, Cypress</h4>
+<h3 align="left">● Languages: Python, C++, C, C#, Java   <br>● Web & Backend: React, TypeScript, FastAPI, Node.js, Express <br>● Data / ML: scikit-learn, NumPy, Pandas, Matplotlib, Jupyter  <br>● Deep Learning: PyTorch (learning), TensorFlow (basic) <br>● Databases: PostgreSQL, MySQL, MongoDB, Redis   <br>● Tools: Git, Linux, Docker, Postman, Cypress</h4>
 
 ###
 
